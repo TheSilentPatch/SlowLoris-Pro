@@ -1,0 +1,13 @@
+beautifulsoup4==4.13.4
+certifi==2025.6.15
+charset-normalizer==3.4.2
+colorama==0.4.6
+idna==3.10
+lxml==6.0.0
+-e git+https://github.com/TheSilentPatch/Proxy-Harvester.git@2b8532bebe7fcdf21edda90193eec2821c6cb9b7#egg=proxy_harvester
+PySocks==1.7.1
+requests==2.32.4
+soupsieve==2.7
+typing_extensions==4.14.1
+urllib3==2.5.0
+uv==0.7.20
