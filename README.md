@@ -103,4 +103,4 @@ If the scheme is omitted, `http` is assumed.
 This project is provided **for educational & testing purposes only**. Performing a Denial-of-Service attack on systems without explicit permission is **illegal** and unethical. The authors assume **no liability** for any misuse of this software.
 
 ---
-MIT License © 2025 Your Name
+MIT License © 2025 [TheSilentPatch](https://github.com/TheSilentPatch)
