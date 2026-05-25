@@ -104,7 +104,7 @@ Performing a Denial-of-Service attack on systems without explicit permission is 
 The authors assume **no liability** for any misuse of this software.
 """
 
-## Disclaimer
+# Disclaimer
 This project is provided **for educational & testing purposes only**. Performing a Denial-of-Service attack on systems without explicit permission is **illegal** and **unethical**. The authors assume **no liability** for any misuse of this software.
 
 ---
